@@ -14,7 +14,7 @@ sckey = sys.argv[5]
 
 # 开启根据地区天气情况降低步数（默认关闭）
 open_get_weather = sys.argv[3]
-# 设置获取天气的地区（上面开启后必填）如：area = "宁波"
+# 设置获取天气的地区（上面开启后必填）如：area = "天津"
 area = sys.argv[4]
 
 set_push = [True]
